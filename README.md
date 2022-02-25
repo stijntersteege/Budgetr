@@ -3,6 +3,6 @@ This project contains the code for my budgeting app. The application is built wi
 
 [Check out the app](https://budgetr.stijntersteege.com/)
 
-Curious about my other projects? Take a look at my GitHub profile.
+Budgetr is one of the mini projects I built within 24 hours. Curious about my other projects? Take a look at my GitHub profile.
 
 For detailed explanation on how things work, check out the Laravel [documentation](https://laravel.com/docs/9.x).
